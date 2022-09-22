@@ -1,6 +1,9 @@
 {
   "name": "posenet",
   "version": "0.1.0",
+  "engines": {
+   "node": "12.22.7"
+   },
   "private": true,
   "dependencies": {
     "@tensorflow-models/posenet": "^2.2.1",
